@@ -105,8 +105,8 @@ body {
     gap: 20px;
     justify-content: center;
     padding: 20px;
-    max-width: 700px; /* Adjusted width to limit items per row */
-    margin: 20px auto; /* Adds space above and below the section and centers it */
+    max-width: 700px; 
+    margin: 20px auto; 
 }
 
 
@@ -156,7 +156,7 @@ p {
 /* Center the form elements within the "social_media" class */
 .social_media {
     width: 100%;
-    max-width: 600px; /* Adjust as needed */
+    max-width: 600px; 
 }
 
 .contact-form {
@@ -197,5 +197,5 @@ textarea {
 }
 
 .btn-primary:hover {
-    background-color: #0056b3;
+    background-color: #c2c522;
 }
